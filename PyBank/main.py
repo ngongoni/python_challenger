@@ -3,7 +3,7 @@
 import os
 import csv
 #path to the csvfile
-csvpath = os.path.join('budget_data.csv')
+csvpath = os.path.join('Resources/budget_data.csv')
 #initializing the variables 
 total_months = 0
 total_revenue =0
