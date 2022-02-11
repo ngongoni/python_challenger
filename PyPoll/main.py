@@ -3,7 +3,7 @@ import os
 import csv
 #Established Variables
 candidates = {}
-elec_csvpath = os.path.join('election_data.csv')
+elec_csvpath = os.path.join('Resources/election_data.csv')
 
 vote_total = 0
 winning_votes = 0
