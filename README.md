@@ -58,3 +58,4 @@ I was asked to create this repository, python-challenge and complete two Python 
 * Through this script, we were able to discover that this town's vote was decisively in favor of Khan.
 
 * My final script both prints the analysis to the terminal and exports a text file to the `analysis` folder with the results.
+* This marks the end of my data analysis.
